@@ -124,9 +124,6 @@ Hello from Go app!
 - **golangci-lint** — линтинг
 - **go test** — тесты + покрытие
 - **Docker** — multi-stage сборка
-- **GitHub Actions** — CI
-
----
 
 ## 📄 Лицензия
 
