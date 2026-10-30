@@ -1,11 +1,5 @@
-# pipelines-go
-
-<img width="1584" height="421" alt="image" src="https://github.com/user-attachments/assets/c8175a6e-0014-4d5f-ae74-b93bea645edd" />
 # 🐹 pipelines-go
 
-Учебный проект: **CI-пайплайн на GitHub Actions** для Go-приложения.
-
----
 
 ## 📖 О проекте
 
@@ -53,7 +47,7 @@
 ## 🐳 Проверка локально
 
 ### Сборка образа
-<img width="587" height="255" alt="image" src="https://github.com/user-attachments/assets/011a63f1-2671-45ad-a4ea-be15d990f6bf" />
+<img width="1905" height="825" alt="photo_5413821073230340028_w" src="https://github.com/user-attachments/assets/5db3762e-b6ee-4441-b3f2-46b2dde758a6" />
 
 ```bash
 docker build -t my-go-app:latest .
